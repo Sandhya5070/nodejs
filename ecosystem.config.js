@@ -10,7 +10,7 @@ user : 'sandhya',
 host : '52.66.85.95',
 ref : 'main',
 repo : 'git@github.com:Sandhya5070/nodejs.git',
-path : '/home/sandhya/test',
+path : '/home/sandhya/test1',
 key : '/var/lib/jenkins/demo-node',	
 'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production',
 }
